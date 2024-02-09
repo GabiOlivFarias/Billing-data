@@ -7,6 +7,8 @@ export default {
   theme: {
     minWidth: {
       90: '360px',
+      45: '180px'
+
     },
     minHeight: {
       180: '720px',
