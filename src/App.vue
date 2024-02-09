@@ -6,7 +6,7 @@
         Analisando dados da nossa empresa
       </h1>
       <p class="flex justify-center font-medium text-3xl"> 
-        Vamos analisar dados do período de um mês (30 dias) da nossa empresa.
+        Vamos analisar dados do período de um mês(30 dias) da nossa empresa.
       </p>
     </div>
     <ResultsView />
