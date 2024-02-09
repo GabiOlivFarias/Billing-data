@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Lexend-Bold;
+    src: url(fonts/Insanibc.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: Lexend-Regular;
+    src: url(fonts/Insanibc.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: Lexend-Light;
+    src: url(fonts/Insanibc.ttf);
+    font-weight: 300;
+}
