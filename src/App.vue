@@ -9,8 +9,10 @@
         Vamos analisar dados do período de um mês (30 dias) da nossa empresa.
       </p>
     </div>
+    <ResultsView />
   </div>
 </template>
 
 <script setup>
+import ResultsView from '@/composable/ResultsView.vue'
 </script>
