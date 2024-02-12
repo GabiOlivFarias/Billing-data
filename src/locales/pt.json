@@ -3,5 +3,10 @@
   "subtittle": "Vamos analisar dados do período de um mês (30 dias) da nossa empresa.",
   "view": {
     "to_see": "O que deseja ver?"
+  },
+  "buttons": {
+    "low": "Menor Faturamento",
+    "hight": "Maior Faturamento",
+    "avarage": "Média mensal"
   }
 }
